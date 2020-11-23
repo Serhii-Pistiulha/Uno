@@ -1,0 +1,36 @@
+@media (min-width: 1900px)  {
+    .ng {   
+        top: 39%;
+        left: 37%;        
+      }
+      .one {
+        height: 120px;
+        width: 65%;
+        margin: 128px auto;
+    }
+    .three {
+        height: 120px;
+        width: 65%;
+        margin: 61px auto;
+    }
+  }
+  
+  @media (min-width: 400px)  {    
+    .one {       
+        width: 90%;     
+    }
+    .three {   
+      width: 90%;    
+    }
+}
+@media (min-width: 900px)  {    
+  .one {       
+    width: 60%;     
+  }   
+  .three {   
+    width: 60%;    
+  }
+}
+
+bod
+}
